@@ -54,7 +54,7 @@ $ npm run start:prod
 
 ## What is Pipe?
 
-Client Request| $\Rightarrow$ | 핸들러 발견 `@GET` | $\Rightarrow$ | Pipe
+Client Request| ➡ | 핸들러 발견 `@GET` | ➡ | Pipe
 -|-|-|-|-
 
 클라이언트에서 어떤 데이터를 생성하고자 할때 `Pipe`가 없다면 `Request`는 바로 `Controller`로 전달됩니다.
